@@ -1,0 +1,49 @@
+.outer{
+    background-image: url("C:\Users\Admin\Desktop\front end\css\6108124.jpg"); 
+    background-color: #0a4fe4;  
+    width: 800px;
+    height: 700px;
+    background-size: cover; 
+    background-position: center; 
+    border-radius: 5px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    background-color: #3d0696;
+    width: 500px;
+    height: 500px;
+    border: 10px solid rgb(6, 36, 136);
+} 
+form{
+    width: 25rem;
+    height: 28rem;
+    display: flex;
+    flex-direction: column;
+
+} 
+label{
+    font-size: 20px;
+    color: #0a4fe4;
+    margin-left: 10%;
+}
+input{
+    width: 80%;
+    margin: 5% auto;
+    margin-bottom: 8%;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-bottom: 1px solid white;
+}
+button{
+    width: 30%;
+    margin: 3% auto;
+}
+body{
+    background-image: url("C:\Users\Admin\Desktop\front end\css\6108124.jpg");  
+    background-size: cover; 
+    background-position: center; 
+    border-radius: 5px; 
+}
